@@ -41,7 +41,7 @@ You can access the **live Flask application** for data preprocessing here:
 
 ## 📖 Research Publications  
 - **[JAMA Network Open](https://your-publication-link.com)** – *Temporal Trends in End-Tidal Capnography and Outcomes in Out-of-Hospital Cardiac Arrest*.  
-- **AI for Capnography:** *Artificial Intelligence for End Tidal Capnography Guided Resuscitation: A Conceptual Framework*.  
+- **[AI for Capnography](https://hdl.handle.net/10125/106854):** *Artificial Intelligence for End Tidal Capnography Guided Resuscitation: A Conceptual Framework*.  
 
 ---
 
