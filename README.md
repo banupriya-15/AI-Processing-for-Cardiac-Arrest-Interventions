@@ -3,12 +3,12 @@
 ## Overview  
 This project explores the **predictive potential of End-Tidal Carbon Dioxide (EtCO₂) capnography** in cardiac resuscitation using **machine learning models**. By analyzing **temporal trends in EtCO₂** and patient responses to **epinephrine administration**, the study identifies critical **survival determinants** for **Return of Spontaneous Circulation (ROSC)**.
 
-## 📊 Key Features  
-- **🩺 Data-Driven Insights:** Analyzes the relationship between **EtCO₂ trends** and **cardiac resuscitation outcomes**.  
-- **📈 Machine Learning Models:** Implements **Random Forest and Logistic Regression** to predict **ROSC**.  
-- **⚡ Flask Application:** Provides a streamlined **data processing tool** for healthcare professionals.  
-- **🔬 Feature Engineering:** Computes **EtCO₂ slope, peak time, duration, and proportional changes**.  
-- **📡 Real-Time Decision Support:** Enables **AI-powered clinical insights** for improved resuscitation strategies.  
+## Key Features  
+- ** Data-Driven Insights:** Analyzes the relationship between **EtCO₂ trends** and **cardiac resuscitation outcomes**.  
+- ** Machine Learning Models:** Implements **Random Forest and Logistic Regression** to predict **ROSC**.  
+- ** Flask Application:** Provides a streamlined **data processing tool** for healthcare professionals.  
+- ** Feature Engineering:** Computes **EtCO₂ slope, peak time, duration, and proportional changes**.  
+- ** Real-Time Decision Support:** Enables **AI-powered clinical insights** for improved resuscitation strategies.  
 
 ---
 
@@ -35,7 +35,7 @@ This project explores the **predictive potential of End-Tidal Carbon Dioxide (Et
 
 ## Live Demo  
 You can access the **live Flask application** for data preprocessing here:  
-🔗 **[Live Application](https://banupr15.pythonanywhere.com)**  
+**[Live Application](https://banupr15.pythonanywhere.com)**  
 
 ---
 
