@@ -14,20 +14,20 @@ This project explores the **predictive potential of End-Tidal Carbon Dioxide (Et
 
 ## Methodology  
 
-### 1 Data Processing  
+### 1. Data Processing  
 - Uses **Pragmatic Airway Resuscitation Trial (PART) dataset** with patient demographics and EtCO₂ readings.  
 - Cleans and structures data for **ML modeling**.  
 
-### 2 Feature Engineering  
+### 2. Feature Engineering  
 - Computes **EtCO₂ slope** to evaluate capnography trends.  
 - Extracts **epinephrine response metrics** such as **T_lag, T_peak, and T_duration**.  
 
-### 3 Machine Learning Modeling  
+### 3. Machine Learning Modeling  
 - **Random Forest Classifier:** Achieves **90% accuracy, AUC 0.96**.  
 - **Logistic Regression:** Serves as a baseline with **85% accuracy**.  
 - **Odds Ratio & Feature Importance Analysis:** Identifies key predictors of **ROSC**.  
 
-### 4 Flask Application  
+### 4. Flask Application  
 - **Live Data Processing Tool:** Converts **medical waveform data** into ML-ready datasets.  
 - **Real-time Predictions:** Enables clinicians to assess survival probabilities based on **EtCO₂ trends**.  
 
